@@ -9,8 +9,10 @@
 	* `index.html` with links to the Angular CDN and `app.js`.
 	* `ng-app` and `ng-controller` directives in the HTML.
 	* `app.js` that initializes your Angular app and adds a controller.
-3. Run `budo app.js --open` from your Terminal to start your server and open your app in the browser.
+3. Run `budo app.js --open` from your Terminal to start your server and open your app in the browser._*_
 4. Implement solutions to the following challenges. Refer to the [solution branch](https://github.com/sf-wdi-26/intro-angular-lab/tree/solution) for guidance.
+
+_* (You may need to `npm install -g budo` to do this. Or just fire up your server another way. [Budo](https://github.com/mattdesl/budo) is a dev tool that serves your code and bundles on the fly.)_
 
 ## Challenges
 
